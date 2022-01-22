@@ -1,0 +1,44 @@
+Movie: Apocalypse Now
+Number of copies: 2
+Genredrama
+
+Movie: Artur
+Number of copies: 2
+Genrecomedy
+
+Movie: Blade Runner
+Number of copies: 2
+Genreaction
+
+Movie: Dracula
+Number of copies: 4
+Genrethriller
+
+Movie: Fight Club
+Number of copies: 4
+Genredrama
+
+Movie: Matrix
+Number of copies: 3
+Genreaction
+
+Movie: Monty Python and the Holy Grail
+Number of copies: 4
+Genrecomedy
+
+Movie: Seven
+Number of copies: 1
+Genredrama
+
+Movie: Taxi Driver
+Number of copies: 1
+Genredrama
+
+Movie: Tootsie
+Number of copies: 2
+Genrecomedy
+
+Movie: Zombies
+Number of copies: 4
+Genrehorror
+
